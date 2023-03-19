@@ -1,5 +1,5 @@
-#ifndef BASICLINKEDLIST_LIBRARY_H
-#define BASICLINKEDLIST_LIBRARY_H
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
 
 #define printMacro(format, type) void print_##type(){ \
     if(head==NULL)                                    \
